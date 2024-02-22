@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaito02020424&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaito02020424&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaito02020424&theme=discord&rank=B,BB,BBB,A,AA,AAA,S,SS,SSS)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # My Skill (Programming Languages, Frameworks and Tools)
