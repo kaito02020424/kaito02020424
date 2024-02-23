@@ -18,9 +18,9 @@
 <img src="https://skillicons.dev/icons?i=git,nodejs,js,typescript,sqlite,github,vscode,docker,discord,python,fastapi,bash,linux" /> <br /><br />
 
 # Main activities
-- [SkyNetwork](https://github.com/SKYNETWORK-MCBE) Developer ✨
-  - 👑 Minecraft Operator
-  - 🎮 Plugin developer
-  - 🖥 Server administrator
-- BDSX Plugin Developer ✨
-  - ✅ Check out my repositories!
+## [SkyNetwork](https://github.com/SKYNETWORK-MCBE) Developer ✨
+- 👑 Minecraft Operator
+- 🎮 Plugin developer
+- 🖥 Server administrator
+## BDSX Plugin Developer ✨
+- ✅ Check out my repositories!
