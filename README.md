@@ -1,5 +1,11 @@
 # kaito02020424
 ## Student Developer in Japan👋
+- I'm interested in JS, TS and Network Infrastructure.
+- I love GNU/Debian Linux.
+- I'm learning MinecraftBE Script API.
+  - It's interesting for me.
+
+# My Achievements
 ![kaito02020424's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaito02020424&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaito02020424&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
