@@ -1,7 +1,7 @@
 # kaito02020424
 ## Student Developer in Japan👋
 - I'm interested in JS, TS and Network Infrastructure.
-- I love GNU/Debian Linux.
+- I love Debian GNU/Linux.
 - I'm learning MinecraftBE Script API.
   - It's interesting for me.
 
@@ -22,5 +22,5 @@
 - 👑 Minecraft Operator
 - 🎮 Plugin developer
 - 🖥 Server administrator
-## BDSX Plugin Developer ✨
+## [BDSX](https://github.com/bdsx/bdsx) Plugin Developer ✨
 - ✅ Check out my repositories!
