@@ -20,7 +20,9 @@
 # Main activities
 ## [SkyNetwork](https://github.com/SKYNETWORK-MCBE) Developer ✨
 - 👑 Minecraft Operator
-- 🎮 Plugin developer
-- 🖥 Server administrator
+- 🎮 Plugin Developer
+- 🖥 Server Administrator
+- 🌐 Network Administrator
+
 ## [BDSX](https://github.com/bdsx/bdsx) Plugin Developer ✨
 - ✅ Check out my repositories!
